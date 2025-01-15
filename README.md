@@ -1,0 +1,1 @@
+a simple program that fetches bible chapters as you describe and then recites it back to you. it is mean to be a software that can used by anyone to quot religious scripts in real-time and present. It can used for any religious scripture and not just bible. 
